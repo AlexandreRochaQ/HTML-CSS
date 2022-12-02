@@ -1,0 +1,28 @@
+body{
+    font: Times;
+    color: #777777;
+    margin-bottom: 20px;
+}
+h1
+{
+    font: Arial;
+    color: #d16521; 
+    text-align: center;
+    margin-bottom: 1.0em;
+}
+h2{
+    font ="Helvetica";
+    color: #4682B4;
+    margin-bottom: 1.0em;
+    font-weight: bold;
+    font-size: 140%;
+}
+h3
+{
+    font: Times;
+    color: #777777;
+    font-weight: bold;
+    font-size: 110%;
+    margin-bottom: 1.0em;
+
+}

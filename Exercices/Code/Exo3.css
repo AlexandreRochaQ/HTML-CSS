@@ -1,0 +1,21 @@
+body { 
+    font-family: Helvetica; 
+    } 
+    h3 { 
+    font-size: 110%; 
+    font-weight: bold; 
+    margin-top: 1.0em; 
+    color: #777777; 
+    } 
+    .encadre { 
+    margin-top: 10px; 
+    margin-bottom: 10px; 
+    border: 1px solid black; 
+    padding: 10px; 
+    } 
+    .information { 
+    background: cyan; 
+    } 
+    .attention { 
+    background: pink; 
+    }
